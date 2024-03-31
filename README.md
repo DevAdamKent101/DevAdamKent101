@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @DevAdamKent101
+- 👀 I’m interested in Server Administration, HTML, Websites. 
+- 🌱 I’m currently learning NextJS, Node. 
+- 📫 How to reach me using the email, devadamkent101@gmail.com
